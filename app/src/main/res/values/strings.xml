@@ -11,4 +11,11 @@
     <string name="_9">9</string>
     <string name="_0">0</string>
     <string name="_point">.</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="divider">/</string>
+    <string name="equals">=</string>
+    <string name="delite">del</string>
+    <string name="clear">c</string>
+    <string name="percent">%</string>
 </resources>
